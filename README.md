@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Dutt Pandey</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**rade082/rade082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rade082&label=Profile%20views&color=0e75b6&style=flat" alt="rade082" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **dutt2630@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahul dutt pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rahul dutt pandey" height="30" width="40" /></a>
+<a href="https://medium.com/@rahul-dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rahul-dp" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rade082&show_icons=true&locale=en&layout=compact" alt="rade082" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rade082&show_icons=true&locale=en" alt="rade082" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rade082&" alt="rade082" /></p>
