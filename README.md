@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul dutt pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rahul dutt pandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-dutt-pandey-622a51181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rahul-dutt-pandey-622a51181" height="30" width="40" /></a>
 <a href="https://medium.com/@rahul-dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rahul-dp" height="30" width="40" /></a>
 </p>
 
@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rade082&show_icons=true&locale=en" alt="rade082" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rade082&" alt="rade082" /></p>
